@@ -1,6 +1,8 @@
 #include <stdio.h>
+#include "timerComp.h"
 
-void main()
+void helloTimer()
 {
     printf("Hi timer\n");
+
 }
